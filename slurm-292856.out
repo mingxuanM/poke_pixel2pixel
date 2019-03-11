@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "train.py", line 25, in <module>
+    from util.visualizer import Visualizer
+  File "/mnt/mscteach_home/s1871044/pytorch-CycleGAN-and-pix2pix/util/visualizer.py", line 6, in <module>
+    from . import util, html
+  File "/mnt/mscteach_home/s1871044/pytorch-CycleGAN-and-pix2pix/util/html.py", line 1, in <module>
+    import dominate
+ModuleNotFoundError: No module named 'dominate'
