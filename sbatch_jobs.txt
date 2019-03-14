@@ -1,1 +1,0 @@
-scontrol show jobid -dd 299258 #poke_evol_mini_px2px_standard_single_gpu full_data
