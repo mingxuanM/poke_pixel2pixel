@@ -9,3 +9,7 @@ scontrol show jobid -dd 301466 #poke_evol_mini_reduced_px2px_standard_single_gpu
 scontrol show jobid -dd 301572 #poke_evol_mini_px2px_short_single_gpu full_data 3:59:00 timelimit
 
 scontrol show jobid -dd 301573 #poke_evol_mini_reduced_px2px_standard_short_gpu reduced_data 3:59:00 timelimit
+
+scontrol show jobid -dd 302496 #super mini rgb
+
+scontrol show jobid -dd 302380 #mini rgb
