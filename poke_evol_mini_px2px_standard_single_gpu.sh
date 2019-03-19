@@ -35,4 +35,4 @@ export DATASET_DIR=${TMP}/datasets/
 
 source /home/${STUDENT_ID}/miniconda3/bin/activate mlp
 #python train.py --dataroot ./datasets/facades --name facades_pix2pix --model pix2pix --direction BtoA  --display_id 0 #--gpu_ids -1
-python train.py --dataroot ./datasets/poke_evol_mini_full --name poke_evol_pix2pix_mini_full --model pix2pix --direction BtoA  --display_id 0 #--gpu_ids -1
+python train.py --dataroot ./datasets/evol_pairs_mini_rgb --name poke_evol_mini_full_aug --model pix2pix --direction BtoA  --display_id 0 #--gpu_ids -1

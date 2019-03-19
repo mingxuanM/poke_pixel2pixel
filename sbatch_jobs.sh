@@ -13,3 +13,5 @@ scontrol show jobid -dd 301573 #poke_evol_mini_reduced_px2px_standard_short_gpu 
 scontrol show jobid -dd 302496 #super mini rgb
 
 scontrol show jobid -dd 302380 #mini rgb
+
+scontrol show jobid -dd 304781 #mini auged full
