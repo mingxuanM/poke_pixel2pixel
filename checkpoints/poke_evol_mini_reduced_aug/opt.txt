@@ -7,9 +7,9 @@
              dataset_mode: aligned                       
                 direction: BtoA                          	[default: AtoB]
           display_winsize: 256                           
-                    epoch: latest                        
+                    epoch: 90                            	[default: latest]
                      eval: False                         
-                  gpu_ids: 0                             
+                  gpu_ids: -1                            	[default: 0]
                 init_gain: 0.02                          
                 init_type: normal                        
                  input_nc: 3                             
