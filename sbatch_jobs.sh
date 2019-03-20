@@ -17,3 +17,5 @@ scontrol show jobid -dd 302380 #mini rgb
 scontrol show jobid -dd 304781 #mini auged full
 
 scontrol show jobid -dd 305347 #mini auged reduced 100 epochs
+
+scontrol show jobid -dd 306303 #test mini reduced auged
