@@ -28,7 +28,7 @@
                   no_flip: False                         
                      norm: batch                         
                     ntest: inf                           
-                 num_test: 50                            
+                 num_test: 130                           	[default: 50]
               num_threads: 4                             
                 output_nc: 3                             
                     phase: test                          
